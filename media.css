@@ -526,6 +526,9 @@
         height: 414px;
         width: 360px;
      }
+     .btn_article{
+         width: 320px;
+     }
      .cont_article{
          display: none;
      }
@@ -679,6 +682,9 @@
     .img_logo{
         width: 155px;
         height: 155px;
+    }
+    .img_main{
+        height: 537px;
     }
     .el_sixths{
         right: 61px;
