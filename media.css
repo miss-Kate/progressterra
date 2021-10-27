@@ -357,9 +357,9 @@
         left: 4px;
     }
 }
-@media(max-width:480px){
+@media(max-width:414px){
     .container{
-        width: 480px;
+        width: 414px;
     }
     .content_block_first {
         height: 784px;
@@ -475,7 +475,7 @@
         height: 700px;
     }
     .block_one {
-        width: 480px;
+        width: 414px;
     }
     .title_servises {
         margin: 160px 0 70px 70px;
